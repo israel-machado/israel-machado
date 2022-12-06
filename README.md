@@ -34,7 +34,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :rocket: I’m working on my way to become a Backend Developer by dominating Java, eventually i'm gonna learn React to become a FullStack Developer.
 
-- :technologist: I started my path on August 2022 when i decided to change carrers from business administration to the tech area. I decided to take the CS50 course of Harvard, where i l've learn a really good foundation for programming, then i took Google's Grasshopper to learn JavaScript. Now i'm finishing a Java course on Udemy.
+- :technologist: I started my path on August 2022 when i decided to change carrers from business administration to the tech area. I decided to take the CS50 course of Harvard, where l've learned a really good foundation for programming, then i took Google's Grasshopper to learn JavaScript. Now i'm finishing a Java course on Udemy.
 
 - :zap: In my free time, I try to keep studying, playing games and cooking.
 
