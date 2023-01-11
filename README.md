@@ -59,8 +59,8 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israel-machado&theme=vision-friendly-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-machado&layout=compact&hide=makefile&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=israel-machado&theme=vision-friendly-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=israel-machado&layout=compact&hide=makefile&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
