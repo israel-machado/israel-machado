@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/Y2PZpny/ivm.jpg" width="200">
+  
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/israelvmachado/">
