@@ -32,9 +32,11 @@
 ### :man_technologist: About Me :
 I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São José dos Campos/SP - Brazil.
 
-- :rocket: I’m working on my way to become a Backend Developer by dominating Java, eventually i'm gonna learn React or Angular to become a FullStack Developer.
+- :rocket: Hello, I'm a Java backend developer and I'm currently studying Computer Science. Despite never having professional experience, I have a solid theoretical foundation in Java and object-oriented programming, with knowledge in algorithms and data structures.
 
-- :technologist: I started my path on August 2022 when i decided to change carrers from business administration to the tech area. I decided to take the CS50 course of Harvard, where l've learned a really good foundation for programming, then i took Google's Grasshopper to learn JavaScript. Now i'm finishing a Java course on Udemy.
+    I have been working on personal projects, in which I have developed skills to develop creative solutions to complex problems.
+
+- :technologist: I am excited to apply my skills and knowledge in a professional environment and contribute to ambitious and innovative projects in the field of technology. With a continuous learning mindset and a commitment to quality, I am confident I can make a valuable contribution to any software development team.
 
 - :zap: In my free time, I try to keep studying, playing games and cooking.
 
