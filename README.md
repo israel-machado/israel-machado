@@ -32,13 +32,7 @@
 ### :man_technologist: About Me :
 I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São José dos Campos/SP - Brazil.
 
-- :rocket: Hello, I'm a Java backend developer and I'm currently studying Computer Science. Despite never having professional experience, I have a solid theoretical foundation in Java and object-oriented programming, with knowledge in algorithms and data structures.
-
-    I have been working on personal projects, in which I have developed skills to develop creative solutions to complex problems.
-
-- :technologist: I am excited to apply my skills and knowledge in a professional environment and contribute to ambitious and innovative projects in the field of technology. With a continuous learning mindset and a commitment to quality, I am confident I can make a valuable contribution to any software development team.
-
-- :zap: In my free time, I try to keep studying, playing games and cooking.
+- :rocket: Backend developer with a solid theoretical basis in object-oriented programming, Java and frameworks such as Spring Boot. Experience acquired through personal projects, where I developed skills in databases such as MySQL, PostgreSQL and MongoDB, in addition to working with APIs. I am proactive, adaptable and quick to learn, delivering creative solutions to solve problems.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-israel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israelvmachado/)
 
