@@ -30,11 +30,20 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São José dos Campos/SP - Brazil.
 
-- :rocket: Backend developer with a solid theoretical basis in object-oriented programming, Java and frameworks such as Spring Boot. Experience acquired through personal projects, where I developed skills in databases such as MySQL, PostgreSQL and MongoDB, in addition to working with APIs. I am proactive, adaptable and quick to learn, delivering creative solutions to solve problems.
+:rocket: Java Backend Developer from São José dos Campos/SP - Brazil.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-israel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israelvmachado/)
+⚙️ My skills include:
+
+• Programming Languages: Java  
+• Frameworks: Spring (Spring Framework, Spring Boot, Spring Data), Hibernate, JPA (Java Persistence API), JUnit, Mockito  
+• Development of REST APIs with Spring  
+• Database: MySQL, PostgreSQL, MongoDB  
+• Dependency Management: Apache Maven  
+• Version Control: Git  
+• Architectures: MVC  
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-israel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israelvmachado/)
 
 ---
 
