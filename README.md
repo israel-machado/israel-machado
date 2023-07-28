@@ -41,7 +41,7 @@
 • Database: MySQL, PostgreSQL, MongoDB  
 • Dependency Management: Apache Maven  
 • Version Control: Git  
-• Architectures: MVC  
+• Architectures: 3-tier 
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-israel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israelvmachado/)
 
